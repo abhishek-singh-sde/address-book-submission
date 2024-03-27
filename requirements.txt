@@ -1,0 +1,4 @@
+fastapi
+haversine
+requests
+uvicorn
